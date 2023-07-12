@@ -21,7 +21,8 @@ ___
 
 __You can analyze the lighthouse report which is pretty good in my first try 🤓__ 
 
-![Alt text](image.png)
+![image](https://ir42.uploadboy.com/d/cu51qt05mvqd/wbnaiswajctfhcohbuxg3w4exulcrb3wyikwlxi6fwzqtsmhdt5lnn4vvroqnbuete3khyyk/anpScreenshot%202023-07-12%20213559.png)
+
 
 __thank you so much for reading this file let me know what you think about it :)__
 
