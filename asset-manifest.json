@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pwa-color-generator/static/css/main.78125262.css",
+    "main.js": "/pwa-color-generator/static/js/main.3738b50a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/pwa-color-generator/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/pwa-color-generator/service-worker.js",
+    "index.html": "/pwa-color-generator/index.html",
+    "main.78125262.css.map": "/pwa-color-generator/static/css/main.78125262.css.map",
+    "main.3738b50a.js.map": "/pwa-color-generator/static/js/main.3738b50a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/pwa-color-generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78125262.css",
+    "static/js/main.3738b50a.js"
+  ]
+}
